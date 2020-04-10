@@ -1,15 +1,82 @@
 PODS:
-  - YNLibPod (0.1.0)
+  - HandyJSON (5.0.1)
+  - Kingfisher (4.10.1)
+  - MBProgressHUD (0.9.2)
+  - SnapKit (4.2.0)
+  - SwifterSwift (4.6.0):
+    - SwifterSwift/AppKit (= 4.6.0)
+    - SwifterSwift/CoreGraphics (= 4.6.0)
+    - SwifterSwift/CoreLocation (= 4.6.0)
+    - SwifterSwift/Foundation (= 4.6.0)
+    - SwifterSwift/MapKit (= 4.6.0)
+    - SwifterSwift/SpriteKit (= 4.6.0)
+    - SwifterSwift/SwiftStdlib (= 4.6.0)
+    - SwifterSwift/UIKit (= 4.6.0)
+  - SwifterSwift/AppKit (4.6.0)
+  - SwifterSwift/CoreGraphics (4.6.0)
+  - SwifterSwift/CoreLocation (4.6.0)
+  - SwifterSwift/Foundation (4.6.0)
+  - SwifterSwift/MapKit (4.6.0)
+  - SwifterSwift/SpriteKit (4.6.0)
+  - SwifterSwift/SwiftStdlib (4.6.0)
+  - SwifterSwift/UIKit (4.6.0)
+  - YNLibPod (0.1.0):
+    - HandyJSON (~> 5.0.0)
+    - Kingfisher (~> 4.10.1)
+    - MBProgressHUD (= 0.9.2)
+    - SnapKit (~> 4.2.0)
+    - SwifterSwift (~> 4.6.0)
+    - YNLibPod/Core (= 0.1.0)
+    - YNLibPod/ModuleA (= 0.1.0)
+    - YNLibPod/ModuleB (= 0.1.0)
+    - YNLibPod/ModuleC (= 0.1.0)
+  - YNLibPod/Core (0.1.0):
+    - HandyJSON (~> 5.0.0)
+    - Kingfisher (~> 4.10.1)
+    - MBProgressHUD (= 0.9.2)
+    - SnapKit (~> 4.2.0)
+    - SwifterSwift (~> 4.6.0)
+  - YNLibPod/ModuleA (0.1.0):
+    - HandyJSON (~> 5.0.0)
+    - Kingfisher (~> 4.10.1)
+    - MBProgressHUD (= 0.9.2)
+    - SnapKit (~> 4.2.0)
+    - SwifterSwift (~> 4.6.0)
+  - YNLibPod/ModuleB (0.1.0):
+    - HandyJSON (~> 5.0.0)
+    - Kingfisher (~> 4.10.1)
+    - MBProgressHUD (= 0.9.2)
+    - SnapKit (~> 4.2.0)
+    - SwifterSwift (~> 4.6.0)
+  - YNLibPod/ModuleC (0.1.0):
+    - HandyJSON (~> 5.0.0)
+    - Kingfisher (~> 4.10.1)
+    - MBProgressHUD (= 0.9.2)
+    - SnapKit (~> 4.2.0)
+    - SwifterSwift (~> 4.6.0)
 
 DEPENDENCIES:
   - YNLibPod (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - HandyJSON
+    - Kingfisher
+    - MBProgressHUD
+    - SnapKit
+    - SwifterSwift
 
 EXTERNAL SOURCES:
   YNLibPod:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YNLibPod: ce4c48bb6f11acf06d3af11c6070c4aa8e1b2f47
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwifterSwift: 812ffec6f301922f5430e75be3f2939ea3a80024
+  YNLibPod: c04e63a03aa5f794da88953269dc0b1a190af906
 
 PODFILE CHECKSUM: 94c75ec77405f8df9358fd7596c1d4733374d26d
 
