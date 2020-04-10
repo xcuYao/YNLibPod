@@ -1,0 +1,25 @@
+{
+  "name": "YNLibPod",
+  "version": "0.1.0",
+  "summary": "A short description of YNLibPod.",
+  "swift_versions": "4.2",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "static_framework": true,
+  "description": "TODO: 测试下lib速度",
+  "homepage": "https://github.com/xcuYao/YNLibPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xcuYao": "chinayaoning@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/xcuYao/YNLibPod.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "YNLibPod/Classes/**/*",
+  "swift_version": "4.2"
+}

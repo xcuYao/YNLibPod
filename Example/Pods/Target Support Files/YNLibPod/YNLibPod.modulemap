@@ -1,0 +1,6 @@
+framework module YNLibPod {
+  umbrella header "YNLibPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

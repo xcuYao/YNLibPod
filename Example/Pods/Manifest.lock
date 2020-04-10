@@ -1,0 +1,16 @@
+PODS:
+  - YNLibPod (0.1.0)
+
+DEPENDENCIES:
+  - YNLibPod (from `../`)
+
+EXTERNAL SOURCES:
+  YNLibPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YNLibPod: ce4c48bb6f11acf06d3af11c6070c4aa8e1b2f47
+
+PODFILE CHECKSUM: 94c75ec77405f8df9358fd7596c1d4733374d26d
+
+COCOAPODS: 1.8.4
